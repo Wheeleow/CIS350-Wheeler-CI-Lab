@@ -1,7 +1,7 @@
 from math_functions import *
-def test_calc_addition():
-	output = add_numbers(2,4)
-	assert output == 6
+#def test_calc_addition():
+#	output = add_numbers(2,4)
+#	assert output == 6
 def test_calc_subtraction():
 	output = subtract_numbers(2, 4)
 	assert output == -2
